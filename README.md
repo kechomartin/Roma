@@ -1,5 +1,5 @@
-# Roma
-A food service .
+# <img src="https://img.icons8.com/?size=512&id=ixXhngAmN7tq&format=png" style="width:45px; heigth:45px;"> Roma
+A food service.
 
 # WHY US :
 
@@ -19,5 +19,5 @@ And don't just take our word for it – here are some reviews from satisfied cus
 
 So why wait? Give our food ordering website a try and experience a whole new world of flavors. You won't be disappointed!
 
-# proposed log 
+# proposed logo
 <img src='https://img.icons8.com/external-thin-kawalan-studio/256/external-triple-right-arrow-arrows-thin-kawalan-studio.png' style="width:45px; heigth:45px;">
