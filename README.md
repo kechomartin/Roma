@@ -19,7 +19,8 @@ And don't just take our word for it – here are some reviews from satisfied cus
 
 So why wait? Give our food ordering website a try and experience a whole new world of flavors. You won't be disappointed!
 
-# proposed logo
-<img src='https://img.icons8.com/external-thin-kawalan-studio/256/external-triple-right-arrow-arrows-thin-kawalan-studio.png' style="width:45px; heigth:45px;">
+# CUSTOMER REVIEWS:
 
-&copy; 2023
+"I recently discovered this food ordering website and I have to say, it's been a game changer. The website is incredibly easy to navigate, and the variety of food options is amazing. The prices are also very reasonable, and the delivery is always on time. I've ordered from this website several times now, and I've never been disappointed. The food is always fresh and delicious, and I love that I can try new cuisines without leaving my house. I would definitely recommend this website to anyone looking for convenient and delicious food delivery!" - Sarah T. (5/5 stars)
+
+
